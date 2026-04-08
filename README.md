@@ -1,0 +1,2 @@
+# django_project_new
+django_project_new
